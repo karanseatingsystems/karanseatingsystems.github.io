@@ -1,36 +1,22 @@
-# Created by http://www.gitignore.io
+# NPM
+node_modules
+npm-debug.log
 
-### OSX ###
+# Jekyll
+_site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+**/Gemfile.lock
+
+# Temporary files
+tmp
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must end with two \r
-Icon
-
-
-# Thumbnails
+Desktop.ini
 ._*
-
-# Files that might appear on external disk
+Thumbs.db
 .Spotlight-V100
 .Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-
-### Jekyll ###
-_site
-.jekyll-cache
-
-### Sass ###
-.sass-cache
-
-### Gemfile ###
-Gemfile.lock
-*.pdn
+.idea
