@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Karan Seating Systems
 layout: home
 description: Fine Custom Made Furniture, Re-Upholstering and Refinishing Services
 intro_image: "images/illustrations/pointing.svg"
@@ -10,4 +10,5 @@ show_call_box: true
 
 # Karan Seating Systems
 
-Fine Custom Made Furniture, Re-Upholstering and Refinishing Services
+Fine Custom Made Furniture, Re-Upholstering and Refinishing Services all over the India.
+Based in Mumbai, we are a team of highly experienced and qualified professionals who are ready to help you with your furniture needs.
